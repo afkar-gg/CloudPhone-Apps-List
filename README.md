@@ -1,2 +1,5 @@
 # Ugphone-App-List
-recomended apps for ugphone users
+## Recomended Apps For Ugphone Users (Especially For Roblox)
+### Executors :
+[RONIX](https://loremipsum.com) Status : 🟡 (Updating)
+[Delta](https://deltaexploits.gg/android_dl) Status : 🟢 Shortcut [here]
