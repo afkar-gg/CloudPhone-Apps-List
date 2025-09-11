@@ -8,7 +8,7 @@
 - [Krnl](https://krnl.cat) Status : 🟢 
 
 ### Cloned Executors (Android 10 exclusive)
-- [link apk](https://afkar-store.web.id/setup)
+- [Link Download](https://afkar-store.web.id/setup)
 
 ### Important Apps :
 - [Mt Manager](https://d.apkpure.com/b/APK/bin.mt.plus?version=latest) (for cloning roblox)
