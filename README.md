@@ -11,7 +11,8 @@
 - [Link Download](https://afkar-store.web.id/setup)
 
 ### Important Apps :
-- [Mt Manager](https://d.apkpure.com/b/APK/bin.mt.plus?version=latest) (for cloning roblox)
+- [Mt Manager](https://d.apkpure.com/b/APK/bin.mt.plus?version=latest) (recommended for file manager, good for cloning roblox on Android 12+)
+- [Smart Launcher](https://d.apkpure.com/b/APK/ginlemon.flowerfree?version=latest) (Must Download if you use android 10 and using cloned Executors above)
 - [Control Screen Orientation](https://d.apkpure.com/b/APK/ahapps.controlthescreenorientation?version=latest)
 - [Kiwi Browser](https://d-e03.winudf.com/b/APK/Y29tLmtpd2licm93c2VyLmJyb3dzZXJfNzMzNzAwMDA0XzVlOTMxNmU0?_fn=S2l3aSBCcm93c2VyIC0gRmFzdCAmIFF1aWV0XzEzNy4wLjczMzcuMF9BUEtQdXJlLmFwaw&_p=Y29tLmtpd2licm93c2VyLmJyb3dzZXI%3D&download_id=otr_1195503537575072&is_hot=true&k=46b271038410dda967aec7b9df11da286843acf1&uu=https%3A%2F%2Fd-09.winudf.com%2Fb%2FAPK%2FY29tLmtpd2licm93c2VyLmJyb3dzZXJfNzMzNzAwMDA0XzVlOTMxNmU0%3Fk%3De4a8f3efa635f183a535d48d84b4e8c96843acf1)
 - [1DM+](https://s1.spiderdown.com/1DM/1DM%2B%20v18.2%20%28Patched%29.apk)
