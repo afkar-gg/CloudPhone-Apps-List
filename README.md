@@ -1,7 +1,7 @@
 # Cloud Phone App List
 ## Recomended Apps For Roblox Users That Especially Using Cloud Phone To Do The Automation.
 ### Recommended Executors :
-(Note : status may be inaccurate, ask @afkar on discord if the following executors are updated yet)
+(Note : status may be inaccurate, ask @afkar on discord to get accurate status)
 - [RONIX](https://wearedevs.net/d/ronix) Status : 🟢 
 - [Delta](https://deltaexploits.gg/delta-executor-android) Status : 🟢
 - [Codex](https://codex.lol/android) Status : 🟢 
