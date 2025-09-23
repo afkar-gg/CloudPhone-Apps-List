@@ -4,7 +4,7 @@
 (Note : status may be inaccurate, ask @afkar on discord to get accurate status)
 - [RONIX](https://wearedevs.net/d/ronix) Status : 🟡 (not updated)
 - [Delta](https://deltaexploits.gg/delta-executor-android) Status : 🟢
-- [Codex](https://codex.lol/android) Status : 🟢 
+- [Codex](https://codex.lol/android) Status : 🟡 
 - [Krnl](https://krnl.cat) Status : 🟢 
 
 ### Cloned Executors (Android 10 exclusive)
